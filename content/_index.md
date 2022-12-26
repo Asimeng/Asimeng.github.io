@@ -11,8 +11,8 @@ sections:
       image:
         filename: hero-academic.png
       cta:
-        label: '**Get Started**'
-        url: https://wowchemy.com/templates/
+        label: '**Jesse's Website**'
+        url: 
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
@@ -54,8 +54,8 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Gardening
+          description: 70%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -70,12 +70,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Postgraduate student
+          company: Stellenbosch University
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2021-07-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -247,10 +247,10 @@ sections:
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
+        city: Cape Town
+        region: Western Cape
+        postcode: '7500'
+        country: South Africa
         country_code: US
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
@@ -260,7 +260,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/j_asimeng'
         - icon: skype
           icon_pack: fab
           name: Skype Me
