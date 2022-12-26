@@ -59,13 +59,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
     link: https://github.com/asimeng
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jesse-asimeng-b849239a
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +80,5 @@ email: 'j.a.asimeng@gmail.com'
 highlight_name: true
 ---
 
-Jesse Asimeng is a Molecular Biology(Bioinformatics) postgraduate student at Stellenbosch University. His research interests include Genomics, Software engieering, machine learning and artificial intellingence. 
+Jesse Asimeng is a Molecular Biology (Bioinformatics) postgraduate student at Stellenbosch University. His research interests include Genomics, Software engieering, machine learning and artificial intellingence. 
 {style="text-align: justify;"}
