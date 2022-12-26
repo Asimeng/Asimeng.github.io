@@ -12,7 +12,7 @@ sections:
         filename: hero-academic.png
       cta:
         label: '**Jesse's Website**'
-        url: 
+        url: https://wowchemy.com/templates/
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
